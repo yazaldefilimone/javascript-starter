@@ -21,7 +21,6 @@ All the tools you need to build your project.
 - 🚓 Commitlint — To make sure your commit messages follow the convention
 - 🚫 lint-staged — Run ESLint and Prettier against staged Git files
 - ⚙️ EditorConfig - Consistent coding styles across editors and IDEs
-- 🗂 Path Mapping — Import components or images using the `~/` prefix
 
 ### Development
 
