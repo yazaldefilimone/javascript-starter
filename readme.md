@@ -1,13 +1,13 @@
 <samp>
  <p align="center">
-  <img src="https://img.shields.io/static/v1?label=TypeScript Starter&message=Welcome&color=FFFFFF&labelColor=110C2F" alt="TypeScript Starter welcome!" />
+  <img src="https://img.shields.io/static/v1?label=JavaScript Starter&message=Welcome&color=FFFFFF&labelColor=110C2F" alt="TypeScript Starter welcome!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=version&message=1.0&color=FFFFFF&labelColor=110C2F">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFFFFF&labelColor=110C2F">
   <img alt="Stars" src="https://img.shields.io/github/stars/yazaldefilimonepinto/javascript-starter?color=FFFFFF&labelColor=110C2F">
   <img alt="Languages" src="https://img.shields.io/github/languages/count/yazaldefilimonepinto/javascript-starter?color=FFFFFF&labelColor=110C2F">
 </p>
 <p align="center" >
-Typescript starter with vitest, prettier, eslint. <br>
+JavaScript starter with vitest, prettier, eslint. <br>
 All the tools you need to build your project.
 <P/>
 
